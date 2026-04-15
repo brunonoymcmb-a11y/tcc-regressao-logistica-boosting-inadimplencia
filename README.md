@@ -29,10 +29,8 @@ Resultados
 
 Os modelos foram comparados com base na curva ROC e índice de Gini.
 
-Autor
-
+Autor:
 Bruno Nogueira Pereira
 
-Como citar
-
+Como citar:
 PEREIRA, Bruno Nogueira. Comparação entre Regressão Logística e Boosting na Predição de Inadimplência. GitHub, 2026.
