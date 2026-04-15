@@ -18,6 +18,6 @@ scikit-learn
 Como executar
 Instalar as dependências
 Executar o script principal
-Autor
 
+Autor
 Bruno Nogueira Pereira
